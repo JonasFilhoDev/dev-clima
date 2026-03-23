@@ -1,50 +1,42 @@
-# Welcome to your Expo app 👋
+<h1>⛅ Dev - Tempo </h1>
+<br>
+<p>Aplicativo mobile de clima desenvolvido com React Native e Expo, que permite consultar as condições 
+   climáticas de qualquer cidade do mundo ou usar a localização GPS do dispositivo.</p>
+<h2>📱 Tela Home </h2>
+<p> Tela inicial com campo de busca por nome de cidade e botão para usar a localização atual do dispositivo.</p>
+<h2>Clima Atual</h2>
+<p>Exibe as informações detalhadas do clima da cidade consultada:</p>
+<ul>
+<li>Temperatura atual (com cor dinâmica conforme a temperatura)</li>
+<li>Condição do tempo com ícone</li>
+<li>Sensação térmica</li>
+<li>Umidade</li>
+<li>Velocidade do vento</li>
+</ul>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<h2>🚀 Tecnologias</h2>
+<br>
+<ul>
+<li>React Native</li>
+<li>Expo</li>
+<li>TypeScript</li>
+<li>Expo Location</li>
+<li>Axios</li>
+<li>OpenWeather API</li>
+</ul>
 
-## Get started
+<h2>🔑 Funcionalidades</h2>
+<ul>
+<li>Busca de clima por nome de cidade</li>
+<li>Busca de clima pela localização GPS do dispositivo</li>
+<li>Exibição de temperatura, sensação térmica, umidade e vento</li>
+<li>Cor da temperatura dinâmica conforme o valor (quente/frio)</li>
+<li>Tratamento de erros e permissões de localização</li>
+</ul>
 
-1. Install dependencies
+<h2>⚙️ Como rodar o projeto</h2>
 
-   ```bash
-   npm install
-   ```
+<p>Clone o repositório git clone https://github.com/JonasFilhoDev/dev-clima.git</p>
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
