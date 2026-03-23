@@ -38,5 +38,10 @@
 
 <p>Clone o repositório git clone https://github.com/JonasFilhoDev/dev-clima.git</p>
 
+<h2>📸Imagens do projeto</h2>
+<img src="https://github.com/JonasFilhoDev/dev-clima/blob/master/assets/WhatsApp%20Image%202026-03-23%20at%2019.27.47%20(1).jpeg">
+<img src="https://github.com/JonasFilhoDev/dev-clima/blob/master/assets/WhatsApp%20Image%202026-03-23%20at%2019.27.47%20(2).jpeg">
+<img src="https://github.com/JonasFilhoDev/dev-clima/blob/master/assets/WhatsApp%20Image%202026-03-23%20at%2019.27.47%20(3).jpeg">
+<img src="https://github.com/JonasFilhoDev/dev-clima/blob/master/assets/WhatsApp%20Image%202026-03-23%20at%2019.27.47.jpeg">
 
 
